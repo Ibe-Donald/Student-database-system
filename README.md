@@ -34,3 +34,38 @@ In this project the following tables were created
 ---
 
 This table contains following columns,
+- StudentMatNo (Primary key)
+- Name
+- DepartmentCode
+- Age
+- Sex
+
+**Courses table**
+---
+
+This table contains following columns,
+- CourseCode (Primary key)
+- CourseName
+- DepartmentCode
+- LecturerID
+- CreditLoad
+
+**Department table**
+---
+
+This table contains following columns,
+- DepartmentCode (Primary key)
+- DepartmentName
+
+**Lecturer table**
+---
+
+This table contains following columns,
+- LecturerID (Primary key)
+- LecturerName
+- DepartmentCode
+
+
+**Database Schema**
+---
+
