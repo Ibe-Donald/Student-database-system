@@ -69,3 +69,14 @@ This table contains following columns,
 **Database Schema**
 ---
 
+A database schema is a structure that defines the organization, layout, and relationships of data in a database. It serves as a blueprint for how data is stored, accessed, and managed within the database system.
+
+![](database schema.PNG)
+
+From the schema we can see the relatioonship each table has the other, enabling better ways to query to gain insights.
+
+**Conclusion**
+---
+
+A student database system serves as a vital tool for educational institutions, offering numerous benefits for both administrators and students alike. By centralizing student information and streamlining administrative processes, such a system enhances efficiency, improves data accuracy, and facilitates informed decision-making.
+
