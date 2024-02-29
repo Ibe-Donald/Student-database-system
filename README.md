@@ -71,7 +71,7 @@ This table contains following columns,
 
 A database schema is a structure that defines the organization, layout, and relationships of data in a database. It serves as a blueprint for how data is stored, accessed, and managed within the database system.
 
-
+![](databaseschema.PNG)
 
 From the schema we can see the relatioonship each table has the other, enabling better ways to query to gain insights.
 
